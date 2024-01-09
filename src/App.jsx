@@ -1,6 +1,5 @@
-import { useState } from 'react'
 import './App.css'
-import {Assignment2} from './Assignment2'
+import Assignment3 from './Assignment3'
 
 
 
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Assignment2/>
+    <Assignment3/>
     </>
   )
 }
